@@ -1,16 +1,18 @@
-# # 職務経歴書
+
+# 職務経歴書
+
 <img src=“./profile.jpeg” width=“200px” />
 
-## 基本情報
 |key|value|
 |----|----|
 |名前|桑名泰輔|
+|GitHub|[kuwana-kb](https://github.com/kuwana-kb)|
 |Twitter|[@kuwana_kb_](https://twitter.com/kuwana_kb_)
 |ブログ|[kuwana-kbの学習/開発ブログ](https://kuwana-kb.hatenablog.com/)
 |メール|euryalis1@gmail.com|
 
 ## 職務経歴
-### 合同会社DMM.com (正社員: 2015/04/01 ~ 現職)
+### 合同会社DMM.com (正社員: 2016/04/01 ~ 現職)
 
 #### 職務要約
 2015/04 ~ 2018/07 、WebディレクターとしてECサイトのプラットフォーム基盤の開発進行管理に従事。<br>
