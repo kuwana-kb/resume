@@ -1,7 +1,7 @@
 
 # 職務経歴書
 
-<img src=“./profile.jpeg” width=“200px” />
+<img src=“/profile.jpeg” width=“200px” />
 
 |key|value|
 |----|----|
