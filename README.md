@@ -5,7 +5,7 @@
 
 |key|value|
 |----|----|
-|名前|桑名泰輔|
+|名前|桑名 泰輔|
 |GitHub|[kuwana-kb](https://github.com/kuwana-kb)|
 |Twitter|[@kuwana_kb_](https://twitter.com/kuwana_kb_)
 |ブログ|[kuwana-kbの学習/開発ブログ](https://kuwana-kb.hatenablog.com/)
