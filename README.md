@@ -1,7 +1,7 @@
 
 # 職務経歴書
 
-![profile](profile.jpeg)
+![profile](profile.jpeg =200x)
 
 |key|value|
 |----|----|
