@@ -61,7 +61,7 @@
 	- MySQL
 	- ElasticSearch
 
-## 技術
+## 技術（業務経験のあるもの）
 - サーバーサイド
 	- Go
 	- PHP
